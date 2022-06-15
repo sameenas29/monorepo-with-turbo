@@ -1,0 +1,65 @@
+node_modules
+npm-debug*
+package-lock.json
+/yarn.lock
+yarn-error.log
+
+#Next
+.next
+
+# Lerna
+lerna-debug.log
+
+# Compiled files
+build/
+.idea
+.vscode
+
+# OS Files
+.DS_Store
+
+# Xcode
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+project.xcworkspace
+.history
+
+# Android/IJ
+*.iml
+.gradle
+local.properties
+
+#babel-cache
+.babel-cache
+
+#Test Coverage
+coverage
+
+#Analysis report
+analysis-report
+
+#on demand module bundle
+.development.env
+
+#Dependency Tracer
+dependencies.txt
+
+# Configuration
+config/environment.js
+.env*.local
+
+#Dump
+dump.rdb
