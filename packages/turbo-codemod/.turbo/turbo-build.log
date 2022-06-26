@@ -1,0 +1,16 @@
+[33m@turbo/codemod:build[0m: cache hit, replaying output [2m6019b4c709fd318e[0m
+[33m@turbo/codemod:build: [0m$ tsup src/*.ts src/transforms/*.ts --format cjs
+[33m@turbo/codemod:build: [0mCLI Building entry: src/getPackageManagerVersion.ts, src/getWorkspaceImplementation.ts, src/git.ts, src/index.ts, src/runTransform.ts, src/types.ts, src/transforms/add-package-manager.ts, src/transforms/create-turbo-config.ts
+[33m@turbo/codemod:build: [0mCLI Using tsconfig: tsconfig.json
+[33m@turbo/codemod:build: [0mCLI tsup v5.12.9
+[33m@turbo/codemod:build: [0mCLI Target: node12
+[33m@turbo/codemod:build: [0mCJS Build start
+[33m@turbo/codemod:build: [0mCJS ⚡️ Build success in 79ms
+[33m@turbo/codemod:build: [0mCJS dist/getPackageManagerVersion.js       1.61 KB
+[33m@turbo/codemod:build: [0mCJS dist/getWorkspaceImplementation.js     2.51 KB
+[33m@turbo/codemod:build: [0mCJS dist/git.js                            2.20 KB
+[33m@turbo/codemod:build: [0mCJS dist/index.js                          8.65 KB
+[33m@turbo/codemod:build: [0mCJS dist/runTransform.js                   1.76 KB
+[33m@turbo/codemod:build: [0mCJS dist/types.js                          758.00 B
+[33m@turbo/codemod:build: [0mCJS dist/transforms/add-package-manager.js 5.77 KB
+[33m@turbo/codemod:build: [0mCJS dist/transforms/create-turbo-config.js 4.29 KB

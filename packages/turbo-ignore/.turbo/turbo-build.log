@@ -1,0 +1,9 @@
+[32mturbo-ignore:build[0m: cache hit, replaying output [2m06bb715ad6eb4161[0m
+[32mturbo-ignore:build: [0m$ tsup index.js --format=cjs && cp ./package.json ./dist/package.json
+[32mturbo-ignore:build: [0mCLI Building entry: index.js
+[32mturbo-ignore:build: [0mCLI Using tsconfig: ../../tsconfig.json
+[32mturbo-ignore:build: [0mCLI tsup v5.12.9
+[32mturbo-ignore:build: [0mCLI Target: node12
+[32mturbo-ignore:build: [0mCJS Build start
+[32mturbo-ignore:build: [0mCJS ⚡️ Build success in 124ms
+[32mturbo-ignore:build: [0mCJS dist/index.js 133.75 KB

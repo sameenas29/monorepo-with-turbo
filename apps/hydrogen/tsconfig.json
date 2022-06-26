@@ -1,0 +1,17 @@
+{
+  "exclude": ["**/__tests__", "**/tests", "**/*.example.*"],
+  "compilerOptions": {
+    "declaration": true,
+    "jsx": "react",
+    "target": "ES2022",
+    "outDir": "./dist/esnext",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "lib": ["ESNext", "DOM", "DOM.Iterable"],
+    "types": ["jest", "@shopify/react-testing/matchers"],
+    "strict": true,
+    "noUnusedLocals": true,
+    "esModuleInterop": true,
+    "preserveWatchOutput": true
+  }
+}

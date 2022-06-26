@@ -1,0 +1,52 @@
+[36mhello-world:build[0m: cache hit, replaying output [2m4d9b014c71fb03f2[0m
+[36mhello-world:build: [0m$ shopify hydrogen build
+[36mhello-world:build: [0m[STARTED] Building client code
+[36mhello-world:build: [0mvite v2.9.12 building for production...
+[36mhello-world:build: [0mtransforming...
+[36mhello-world:build: [0m✓ 73 modules transformed.
+[36mhello-world:build: [0mrendering chunks...
+[36mhello-world:build: [0mdist/client/index.html                 0.46 KiB
+[36mhello-world:build: [0mdist/client/manifest.json              6.81 KiB
+[36mhello-world:build: [0mdist/client/assets/5a71abd2.js         0.33 KiB / gzip: 0.21 KiB
+[36mhello-world:build: [0mdist/client/assets/5a71abd2.js.map     1.02 KiB
+[36mhello-world:build: [0mdist/client/assets/c11c6873.js         4.36 KiB / gzip: 1.95 KiB
+[36mhello-world:build: [0mdist/client/assets/c11c6873.js.map     39.50 KiB
+[36mhello-world:build: [0mdist/client/assets/e46df213.js         0.20 KiB / gzip: 0.17 KiB
+[36mhello-world:build: [0mdist/client/assets/e46df213.js.map     0.58 KiB
+[36mhello-world:build: [0mdist/client/assets/a0b39c87.js         0.30 KiB / gzip: 0.23 KiB
+[36mhello-world:build: [0mdist/client/assets/a0b39c87.js.map     0.83 KiB
+[36mhello-world:build: [0mdist/client/assets/2121ddf5.js         0.11 KiB / gzip: 0.12 KiB
+[36mhello-world:build: [0mdist/client/assets/2121ddf5.js.map     0.36 KiB
+[36mhello-world:build: [0mdist/client/assets/03e86285.js         0.73 KiB / gzip: 0.45 KiB
+[36mhello-world:build: [0mdist/client/assets/03e86285.js.map     2.89 KiB
+[36mhello-world:build: [0mdist/client/assets/44b6a16e.js         0.14 KiB / gzip: 0.15 KiB
+[36mhello-world:build: [0mdist/client/assets/44b6a16e.js.map     0.61 KiB
+[36mhello-world:build: [0mdist/client/assets/fa63774f.js         0.52 KiB / gzip: 0.33 KiB
+[36mhello-world:build: [0mdist/client/assets/fa63774f.js.map     1.88 KiB
+[36mhello-world:build: [0mdist/client/assets/67a0a75f.js         4.27 KiB / gzip: 1.93 KiB
+[36mhello-world:build: [0mdist/client/assets/67a0a75f.js.map     11.77 KiB
+[36mhello-world:build: [0mdist/client/assets/d7a56b19.js         0.89 KiB / gzip: 0.49 KiB
+[36mhello-world:build: [0mdist/client/assets/d7a56b19.js.map     2.36 KiB
+[36mhello-world:build: [0mdist/client/assets/35364602.js         3.62 KiB / gzip: 1.84 KiB
+[36mhello-world:build: [0mdist/client/assets/35364602.js.map     13.67 KiB
+[36mhello-world:build: [0mdist/client/assets/f02873cf.js         0.37 KiB / gzip: 0.26 KiB
+[36mhello-world:build: [0mdist/client/assets/f02873cf.js.map     1.03 KiB
+[36mhello-world:build: [0mdist/client/assets/2e4a0316.js         0.68 KiB / gzip: 0.39 KiB
+[36mhello-world:build: [0mdist/client/assets/2e4a0316.js.map     1.99 KiB
+[36mhello-world:build: [0mdist/client/assets/0ba5c76a.js         4.39 KiB / gzip: 1.55 KiB
+[36mhello-world:build: [0mdist/client/assets/0ba5c76a.js.map     14.38 KiB
+[36mhello-world:build: [0mdist/client/assets/6d65f40f.js         0.34 KiB / gzip: 0.27 KiB
+[36mhello-world:build: [0mdist/client/assets/6d65f40f.js.map     1.17 KiB
+[36mhello-world:build: [0mdist/client/assets/index.90f30427.js   151.89 KiB / gzip: 49.76 KiB
+[36mhello-world:build: [0mdist/client/assets/index.90f30427.js.map 364.69 KiB
+[36mhello-world:build: [0m[TITLE] Built client code
+[36mhello-world:build: [0m[SUCCESS] Built client code
+[36mhello-world:build: [0m[STARTED] Building worker code
+[36mhello-world:build: [0mvite v2.9.12 building SSR bundle for production...
+[36mhello-world:build: [0mtransforming...
+[36mhello-world:build: [0m✓ 443 modules transformed.
+[36mhello-world:build: [0mrendering chunks...
+[36mhello-world:build: [0mdist/worker/index.js   152.73 KiB
+[36mhello-world:build: [0mdist/worker/index.js.map 515.74 KiB
+[36mhello-world:build: [0m[TITLE] Built worker code
+[36mhello-world:build: [0m[SUCCESS] Built worker code

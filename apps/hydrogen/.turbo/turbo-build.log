@@ -1,0 +1,7 @@
+[36m@shopify/hydrogen:build[0m: cache hit, replaying output [2mee821ec819e21cbd[0m
+[36m@shopify/hydrogen:build: [0m$ rimraf dist ../../node_modules/@shopify/hydrogen && mkdirp ../../node_modules/@shopify/hydrogen
+[36m@shopify/hydrogen:build: [0m$ run-p build-esnext build-node && yarn hoist-files && yarn hoist-dist
+[36m@shopify/hydrogen:build: [0m$ tsc --p tsconfig.cjs.json
+[36m@shopify/hydrogen:build: [0m$ tsc --p tsconfig.esm.json
+[36m@shopify/hydrogen:build: [0m$ cpy --parents *.cjs *.json vendor ../../node_modules/@shopify/hydrogen
+[36m@shopify/hydrogen:build: [0m$ cpy --parents dist ../../node_modules/@shopify/hydrogen

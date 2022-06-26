@@ -1,0 +1,122 @@
+[33msample-app:build[0m: cache hit, replaying output [2m2f35f28b2fb7ec80[0m
+[33msample-app:build: [0m$ sh ./prebuild.sh
+[33msample-app:build: [0m
+[33msample-app:build: [0m> @acme/core@0.0.0 build
+[33msample-app:build: [0m> tsup src/index.tsx --format esm,cjs --dts --external react
+[33msample-app:build: [0m
+[33msample-app:build: [0mCLI Building entry: src/index.tsx
+[33msample-app:build: [0mCLI Using tsconfig: tsconfig.json
+[33msample-app:build: [0mCLI tsup v5.12.9
+[33msample-app:build: [0mCLI Target: node12
+[33msample-app:build: [0mESM Build start
+[33msample-app:build: [0mCJS Build start
+[33msample-app:build: [0mESM ⚡️ Build success in 19ms
+[33msample-app:build: [0mCJS ⚡️ Build success in 10ms
+[33msample-app:build: [0mESM dist/index.mjs 222.00 B
+[33msample-app:build: [0mCJS dist/index.js 1.50 KB
+[33msample-app:build: [0mDTS Build start
+[33msample-app:build: [0mDTS ⚡️ Build success in 3927ms
+[33msample-app:build: [0mDTS dist/index.d.ts 239.00 B
+[33msample-app:build: [0m
+[33msample-app:build: [0m> @acme/utils@0.0.0 build
+[33msample-app:build: [0m> tsup src/index.tsx --format esm,cjs --dts --external react
+[33msample-app:build: [0m
+[33msample-app:build: [0mCLI Building entry: src/index.tsx
+[33msample-app:build: [0mCLI Using tsconfig: tsconfig.json
+[33msample-app:build: [0mCLI tsup v5.12.9
+[33msample-app:build: [0mCLI Target: node12
+[33msample-app:build: [0mESM Build start
+[33msample-app:build: [0mCJS Build start
+[33msample-app:build: [0mESM ⚡️ Build success in 26ms
+[33msample-app:build: [0mCJS ⚡️ Build success in 19ms
+[33msample-app:build: [0mESM dist/index.mjs 726.00 B
+[33msample-app:build: [0mCJS dist/index.js 2.09 KB
+[33msample-app:build: [0mDTS Build start
+[33msample-app:build: [0mDTS ⚡️ Build success in 1793ms
+[33msample-app:build: [0mDTS dist/index.d.ts 734.00 B
+[33msample-app:build: [0m
+[33msample-app:build: [0m> create-turbo@1.2.17-canary.0 build
+[33msample-app:build: [0m> tsup src/index.ts --format cjs
+[33msample-app:build: [0m
+[33msample-app:build: [0mCLI Building entry: src/index.ts
+[33msample-app:build: [0mCLI Using tsconfig: tsconfig.json
+[33msample-app:build: [0mCLI tsup v5.12.9
+[33msample-app:build: [0mCLI Target: node12
+[33msample-app:build: [0mCJS Build start
+[33msample-app:build: [0mCJS ⚡️ Build success in 39ms
+[33msample-app:build: [0mCJS dist/index.js 14.22 KB
+[33msample-app:build: [0m
+[33msample-app:build: [0m> logger@0.0.0 build
+[33msample-app:build: [0m> tsc
+[33msample-app:build: [0m
+[33msample-app:build: [0m
+[33msample-app:build: [0m> @turbo/codemod@1.2.17-canary.0 build
+[33msample-app:build: [0m> tsup src/*.ts src/transforms/*.ts --format cjs
+[33msample-app:build: [0m
+[33msample-app:build: [0mCLI Building entry: src/getPackageManagerVersion.ts, src/getWorkspaceImplementation.ts, src/git.ts, src/index.ts, src/runTransform.ts, src/types.ts, src/transforms/add-package-manager.ts, src/transforms/create-turbo-config.ts
+[33msample-app:build: [0mCLI Using tsconfig: tsconfig.json
+[33msample-app:build: [0mCLI tsup v5.12.9
+[33msample-app:build: [0mCLI Target: node12
+[33msample-app:build: [0mCJS Build start
+[33msample-app:build: [0mCJS ⚡️ Build success in 23ms
+[33msample-app:build: [0mCJS dist/types.js                          758.00 B
+[33msample-app:build: [0mCJS dist/runTransform.js                   1.76 KB
+[33msample-app:build: [0mCJS dist/git.js                            2.20 KB
+[33msample-app:build: [0mCJS dist/getPackageManagerVersion.js       1.61 KB
+[33msample-app:build: [0mCJS dist/transforms/add-package-manager.js 5.77 KB
+[33msample-app:build: [0mCJS dist/transforms/create-turbo-config.js 4.29 KB
+[33msample-app:build: [0mCJS dist/getWorkspaceImplementation.js     2.51 KB
+[33msample-app:build: [0mCJS dist/index.js                          8.65 KB
+[33msample-app:build: [0m
+[33msample-app:build: [0m> turbo-ignore@0.0.39 build
+[33msample-app:build: [0m> tsup index.js --format=cjs && cp ./package.json ./dist/package.json
+[33msample-app:build: [0m
+[33msample-app:build: [0mCLI Building entry: index.js
+[33msample-app:build: [0mCLI Using tsconfig: ../../tsconfig.json
+[33msample-app:build: [0mCLI tsup v5.12.9
+[33msample-app:build: [0mCLI Target: node12
+[33msample-app:build: [0mCJS Build start
+[33msample-app:build: [0mCJS ⚡️ Build success in 45ms
+[33msample-app:build: [0mCJS dist/index.js 133.75 KB
+[33msample-app:build: [0m
+[33msample-app:build: [0m> ui@0.0.0 build
+[33msample-app:build: [0m> tsup src/index.tsx --format esm,cjs --dts --external react
+[33msample-app:build: [0m
+[33msample-app:build: [0mCLI Building entry: src/index.tsx
+[33msample-app:build: [0mCLI Using tsconfig: tsconfig.json
+[33msample-app:build: [0mCLI tsup v5.12.9
+[33msample-app:build: [0mCLI Target: node12
+[33msample-app:build: [0mESM Build start
+[33msample-app:build: [0mCJS Build start
+[33msample-app:build: [0mCJS ⚡️ Build success in 11ms
+[33msample-app:build: [0mESM ⚡️ Build success in 18ms
+[33msample-app:build: [0mCJS dist/index.js 2.25 KB
+[33msample-app:build: [0mESM dist/index.mjs 935.00 B
+[33msample-app:build: [0mDTS Build start
+[33msample-app:build: [0mDTS ⚡️ Build success in 1243ms
+[33msample-app:build: [0mDTS dist/index.d.ts 248.00 B
+[33msample-app:build: [0m$ next build
+[33msample-app:build: [0minfo  - Checking validity of types...
+[33msample-app:build: [0minfo  - Creating an optimized production build...
+[33msample-app:build: [0minfo  - Compiled successfully
+[33msample-app:build: [0minfo  - Collecting page data...
+[33msample-app:build: [0minfo  - Generating static pages (0/3)
+[33msample-app:build: [0minfo  - Generating static pages (3/3)
+[33msample-app:build: [0minfo  - Finalizing page optimization...
+[33msample-app:build: [0m
+[33msample-app:build: [0mPage                                       Size     First Load JS
+[33msample-app:build: [0m┌ ○ /                                      6.25 kB        81.4 kB
+[33msample-app:build: [0m├   └ css/149b18973e5508c7.css             655 B
+[33msample-app:build: [0m├   /_app                                  0 B            75.2 kB
+[33msample-app:build: [0m├ ○ /404                                   194 B          75.4 kB
+[33msample-app:build: [0m└ λ /api/hello                             0 B            75.2 kB
+[33msample-app:build: [0m+ First Load JS shared by all              75.2 kB
+[33msample-app:build: [0m  ├ chunks/framework-c9b3feaf07556a8a.js   45.2 kB
+[33msample-app:build: [0m  ├ chunks/main-5fca9d6e0dcc3f6e.js        28.7 kB
+[33msample-app:build: [0m  ├ chunks/pages/_app-2838f9015ff922d4.js  495 B
+[33msample-app:build: [0m  ├ chunks/webpack-69bfa6990bb9e155.js     769 B
+[33msample-app:build: [0m  └ css/27d177a30947857b.css               194 B
+[33msample-app:build: [0m
+[33msample-app:build: [0mλ  (Server)  server-side renders at runtime (uses getInitialProps or getServerSideProps)
+[33msample-app:build: [0m○  (Static)  automatically rendered as static HTML (uses no initial props)
+[33msample-app:build: [0m
