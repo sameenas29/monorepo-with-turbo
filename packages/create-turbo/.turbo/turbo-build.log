@@ -1,9 +1,11 @@
-[32mcreate-turbo:build[0m: cache hit, replaying output [2mf5336f0d9d9a3dc8[0m
-[32mcreate-turbo:build: [0m$ tsup src/index.ts --format cjs
-[32mcreate-turbo:build: [0mCLI Building entry: src/index.ts
-[32mcreate-turbo:build: [0mCLI Using tsconfig: tsconfig.json
-[32mcreate-turbo:build: [0mCLI tsup v5.12.9
-[32mcreate-turbo:build: [0mCLI Target: node12
-[32mcreate-turbo:build: [0mCJS Build start
-[32mcreate-turbo:build: [0mCJS ⚡️ Build success in 155ms
-[32mcreate-turbo:build: [0mCJS dist/index.js 14.22 KB
+create-turbo:build: cache hit, replaying output [2m1dacd4eb93cea9c9[0m
+[34mcreate-turbo:build: [0myarn run v1.22.19
+[34mcreate-turbo:build: [0m$ tsup src/index.ts --format cjs
+[34mcreate-turbo:build: [0mCLI Building entry: src/index.ts
+[34mcreate-turbo:build: [0mCLI Using tsconfig: tsconfig.json
+[34mcreate-turbo:build: [0mCLI tsup v5.12.9
+[34mcreate-turbo:build: [0mCLI Target: node12
+[34mcreate-turbo:build: [0mCJS Build start
+[34mcreate-turbo:build: [0mCJS ⚡️ Build success in 78ms
+[34mcreate-turbo:build: [0mCJS dist/index.js 14.22 KB
+[34mcreate-turbo:build: [0mDone in 1.04s.

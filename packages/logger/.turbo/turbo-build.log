@@ -1,2 +1,4 @@
-[33mlogger:build[0m: cache hit, replaying output [2mb87a2f634645cd39[0m
-[33mlogger:build: [0m$ tsc
+logger:build: cache hit, replaying output [2m5dfc16dd745aa0bd[0m
+[35mlogger:build: [0myarn run v1.22.19
+[35mlogger:build: [0m$ tsc
+[35mlogger:build: [0mDone in 3.47s.

@@ -1,5 +1,3 @@
-"use strict";
-
 // src/NewTabLink.tsx
 import * as React from "react";
 var NewTabLink = ({

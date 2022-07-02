@@ -1,5 +1,3 @@
-"use strict";
-
 // src/toSlug.ts
 function toSlug(str) {
   let s = str;

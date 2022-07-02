@@ -642,9 +642,9 @@ var require_p_try = __commonJS({
   }
 });
 
-// ../../node_modules/p-limit/index.js
+// ../../node_modules/p-locate/node_modules/p-limit/index.js
 var require_p_limit = __commonJS({
-  "../../node_modules/p-limit/index.js"(exports, module2) {
+  "../../node_modules/p-locate/node_modules/p-limit/index.js"(exports, module2) {
     "use strict";
     init_cjs_shims();
     var pTry = require_p_try();

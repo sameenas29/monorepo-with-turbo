@@ -1,5 +1,3 @@
-"use strict";
-
 // src/Button.tsx
 import * as React from "react";
 function Button(props) {

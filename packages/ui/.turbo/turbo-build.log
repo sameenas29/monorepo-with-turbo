@@ -1,15 +1,17 @@
-[34mui:build[0m: cache hit, replaying output [2mdedd66b0cbc88756[0m
-[34mui:build: [0m$ tsup src/index.tsx --format esm,cjs --dts --external react
-[34mui:build: [0mCLI Building entry: src/index.tsx
-[34mui:build: [0mCLI Using tsconfig: tsconfig.json
-[34mui:build: [0mCLI tsup v5.12.9
-[34mui:build: [0mCLI Target: node12
-[34mui:build: [0mESM Build start
-[34mui:build: [0mCJS Build start
-[34mui:build: [0mESM ⚡️ Build success in 37ms
-[34mui:build: [0mCJS ⚡️ Build success in 14ms
-[34mui:build: [0mCJS dist/index.js 2.25 KB
-[34mui:build: [0mESM dist/index.mjs 935.00 B
-[34mui:build: [0mDTS Build start
-[34mui:build: [0mDTS ⚡️ Build success in 3894ms
-[34mui:build: [0mDTS dist/index.d.ts 248.00 B
+ui:build: cache hit, replaying output [2m9a34fd5e8ea5691f[0m
+[32mui:build: [0myarn run v1.22.19
+[32mui:build: [0m$ tsup src/index.tsx --format esm,cjs --dts --external react
+[32mui:build: [0mCLI Building entry: src/index.tsx
+[32mui:build: [0mCLI Using tsconfig: tsconfig.json
+[32mui:build: [0mCLI tsup v5.12.9
+[32mui:build: [0mCLI Target: node12
+[32mui:build: [0mESM Build start
+[32mui:build: [0mCJS Build start
+[32mui:build: [0mCJS ⚡️ Build success in 55ms
+[32mui:build: [0mESM ⚡️ Build success in 70ms
+[32mui:build: [0mCJS dist/index.js 2.25 KB
+[32mui:build: [0mESM dist/index.mjs 920.00 B
+[32mui:build: [0mDTS Build start
+[32mui:build: [0mDTS ⚡️ Build success in 2844ms
+[32mui:build: [0mDTS dist/index.d.ts 248.00 B
+[32mui:build: [0mDone in 4.16s.
